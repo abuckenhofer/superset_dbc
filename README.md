@@ -8,5 +8,6 @@ https://superset.incubator.apache.org/installation.html#database-dependencies
 ## Changeset
 V 1.1
 * preset/superset deprecated and therefore replaced by apache/incubator-superset
+
 V 1.0
 * Initial version
