@@ -1,4 +1,4 @@
-FROM preset/superset:master
+FROM apache/incubator-superset:master
 
 USER root
 
